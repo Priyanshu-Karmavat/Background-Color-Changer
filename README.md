@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+https://Priyanshu-Karmavat.github.io/color-switcher/
 
 # React + Vite
 
